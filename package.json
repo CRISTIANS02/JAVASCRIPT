@@ -1,0 +1,18 @@
+{
+  "name": "javascrit-jma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "mevengo": "node index.js",
+    "yamevine":"node index.js"
+    
+
+  },
+  "keywords": [],
+  "author": "Cristian del mar",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
